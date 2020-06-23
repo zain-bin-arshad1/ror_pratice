@@ -1,6 +1,6 @@
 # README
 
-First rail application.
+First rail application. Checking git commit
 
 Things you may want to cover:
 
