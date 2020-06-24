@@ -1,6 +1,6 @@
 # README
 
-First rail application. Checking git commit
+First rail application. Test repo
 
 Things you may want to cover:
 
