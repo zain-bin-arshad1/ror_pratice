@@ -1,6 +1,6 @@
 # README
 
-First rail application. Test repo
+First rail application. working on Db
 
 Things you may want to cover:
 
